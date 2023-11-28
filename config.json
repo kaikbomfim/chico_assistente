@@ -1,0 +1,49 @@
+{
+    "nome": "chico",
+    "acoes": [
+        {
+            "nome": "ligar",
+            "objetos": [
+                "motor",
+                "farol",
+                "ar"
+            ]
+        },
+        {
+            "nome": "desligar",
+            "objetos": [
+                "motor",
+                "farol",
+                "ar"
+            ]
+        },
+        {
+            "nome": "abrir",
+            "objetos": [
+                "porta",
+                "janela"
+            ]
+        },
+        {
+            "nome": "destravar",
+            "objetos": [
+                "porta",
+                "janela"
+            ]
+        },
+        {
+            "nome": "travar",
+            "objetos": [
+                "porta",
+                "janela"
+            ]
+        },
+        {
+            "nome": "fechar",
+            "objetos": [
+                "porta",
+                "janela"
+            ]
+        }
+    ]
+}
